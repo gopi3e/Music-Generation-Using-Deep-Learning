@@ -7,7 +7,8 @@ __Task__: Our task here is to take some existing music data then train a model u
 Now, what is music? In short music is nothing but a __sequence of musical notes__. Our __input__ to the model is a sequence of musical events/notes. Our __output__ will be new sequence of musical events/notes. In this case-study we have limited our self to single instrument music as this is our first cut model. In future, we will extend this to multiple instrument music. 
 ## Data Source:
 1. http://abc.sourceforge.net/NMD/
-2.  http://trillian.mit.edu/~jc/music/book/oneills/1850/X/
+2. http://trillian.mit.edu/~jc/music/book/oneills/1850/X/
+
 __From first data-source, we have downloaded first two files:__
 * Jigs (340 tunes)
 * Hornpipes (65 tunes)
