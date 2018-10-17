@@ -1,4 +1,6 @@
 # Music Generation Using Deep-Learning
+## Check out the blog of this case study at the following link:
+https://medium.com/@gamesleo89/music-generation-using-deep-learning-85010fb982e2
 ## Real World Problem
 This case-study focuses on generating music automatically using Recurrent Neural Network(RNN). 
 We do not necessarily have to be a music expert in order to generate music. Even a non expert can generate a decent quality music using RNN.
